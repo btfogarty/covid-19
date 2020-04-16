@@ -13,6 +13,6 @@ confirmed = pandas.read_csv(url,error_bad_lines=False)
 
 print(confirmed.head())
 
-url = 'C:\\Users\\534507\\Documents\\GitHub\\covid-19\\confirmed.csv'
+url = 'C:\\Users\\534507\\Documents\\GitHub\\covid-19\\data\\confirmed.csv'
 confirmed.to_csv(url)
 
