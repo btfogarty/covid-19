@@ -41,5 +41,5 @@ while col < num_cols:
     
 #write the output file
 url = 'C:\\Users\\534507\\Documents\\GitHub\\covid-19\\data\\confirmed.csv'
-confirmed.to_csv(url)
+data_out.to_csv(url)
 
