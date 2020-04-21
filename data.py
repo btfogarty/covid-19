@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 16 13:46:55 2020
-
-@author: vtfog
-"""
 
 import pandas
 import getpass
@@ -48,10 +42,21 @@ while col < num_cols:
     #increment day
     col = col + 1
     
+   
 #write the output file (csv)
 url = 'C:\\Users\\' + getpass.getuser() + '\\Documents\\GitHub\\\covid-19\\data\\covid_data.csv'
 data_out.to_csv(url)
 
 #write the output file (json)
 url = 'C:\\Users\\' + getpass.getuser() + '\\Documents\\GitHub\\\covid-19\\data\\covid_data.json'
-data_out.to_json(url, orient = 'records', lines = True, indent = 5)
+data_out.to_json(url, orient = 'records', lines = True, indent = 2)
+
+#aggregate data
+data_sum = data_out.groupby(['Province_State','Date'], as_index = False)['Confirmed','Deaths'].sum()
+url = 'C:\\Users\\' + getpass.getuser() + '\\Documents\\GitHub\\\covid-19\\data\\covid_states_data.json'
+data_sum.to_json(url, orient = 'split', index=False, indent = 2)
+
+#Virginia Data
+data_va = data_sum.loc[data_sum['Province_State'] == 'Virginia']
+url = 'C:\\Users\\' + getpass.getuser() + '\\Documents\\GitHub\\\covid-19\\data\\covid_va_data.json'
+data_va.to_json(url, orient = 'split', index=False, indent = 2)
