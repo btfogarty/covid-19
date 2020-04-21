@@ -48,7 +48,10 @@ while col < num_cols:
     #increment day
     col = col + 1
     
-#write the output file
+#write the output file (csv)
 url = 'C:\\Users\\' + getpass.getuser() + '\\Documents\\GitHub\\\covid-19\\data\\covid_data.csv'
 data_out.to_csv(url)
 
+#write the output file (json)
+url = 'C:\\Users\\' + getpass.getuser() + '\\Documents\\GitHub\\\covid-19\\data\\covid_data.json'
+data_out.to_json(url, orient = 'records', lines = True, indent = 5)
