@@ -506,6 +506,12 @@
     ],
     [
       "Alabama",
+      "4\/21\/20",
+      5317,
+      183
+    ],
+    [
+      "Alabama",
       "4\/3\/20",
       1495,
       38
@@ -1042,6 +1048,12 @@
       "Alaska",
       "4\/20\/20",
       321,
+      9
+    ],
+    [
+      "Alaska",
+      "4\/21\/20",
+      329,
       9
     ],
     [
@@ -1586,6 +1598,12 @@
     ],
     [
       "American Samoa",
+      "4\/21\/20",
+      0,
+      0
+    ],
+    [
+      "American Samoa",
       "4\/3\/20",
       0,
       0
@@ -2008,7 +2026,7 @@
       "Arizona",
       "3\/31\/20",
       1289,
-      24
+      25
     ],
     [
       "Arizona",
@@ -2049,56 +2067,56 @@
     [
       "Arizona",
       "4\/1\/20",
-      1530,
-      29
+      1413,
+      32
     ],
     [
       "Arizona",
       "4\/10\/20",
       3112,
-      97
+      106
     ],
     [
       "Arizona",
       "4\/11\/20",
       3393,
-      108
+      117
     ],
     [
       "Arizona",
       "4\/12\/20",
       3542,
-      115
+      125
     ],
     [
       "Arizona",
       "4\/13\/20",
       3705,
-      122
+      132
     ],
     [
       "Arizona",
       "4\/14\/20",
       3809,
-      131
+      143
     ],
     [
       "Arizona",
       "4\/15\/20",
       3964,
-      142
+      155
     ],
     [
       "Arizona",
       "4\/16\/20",
       4237,
-      150
+      164
     ],
     [
       "Arizona",
       "4\/17\/20",
       4511,
-      169
+      183
     ],
     [
       "Arizona",
@@ -2115,8 +2133,8 @@
     [
       "Arizona",
       "4\/2\/20",
-      1715,
-      32
+      1596,
+      35
     ],
     [
       "Arizona",
@@ -2126,45 +2144,51 @@
     ],
     [
       "Arizona",
+      "4\/21\/20",
+      5256,
+      208
+    ],
+    [
+      "Arizona",
       "4\/3\/20",
-      1937,
-      41
+      1769,
+      44
     ],
     [
       "Arizona",
       "4\/4\/20",
-      2187,
+      2019,
       52
     ],
     [
       "Arizona",
       "4\/5\/20",
-      2486,
+      2269,
       64
     ],
     [
       "Arizona",
       "4\/6\/20",
-      2732,
+      2460,
       65
     ],
     [
       "Arizona",
       "4\/7\/20",
-      2870,
+      2575,
       73
     ],
     [
       "Arizona",
       "4\/8\/20",
-      3036,
-      80
+      2726,
+      89
     ],
     [
       "Arizona",
       "4\/9\/20",
       3018,
-      89
+      98
     ],
     [
       "Arkansas",
@@ -2663,6 +2687,12 @@
       "4\/20\/20",
       1973,
       41
+    ],
+    [
+      "Arkansas",
+      "4\/21\/20",
+      1990,
+      42
     ],
     [
       "Arkansas",
@@ -3206,6 +3236,12 @@
     ],
     [
       "California",
+      "4\/21\/20",
+      35465,
+      1282
+    ],
+    [
+      "California",
       "4\/3\/20",
       12004,
       265
@@ -3743,6 +3779,12 @@
       "4\/20\/20",
       9730,
       420
+    ],
+    [
+      "Colorado",
+      "4\/21\/20",
+      10473,
+      483
     ],
     [
       "Colorado",
@@ -4286,6 +4328,12 @@
     ],
     [
       "Connecticut",
+      "4\/21\/20",
+      20360,
+      1423
+    ],
+    [
+      "Connecticut",
       "4\/3\/20",
       4914,
       131
@@ -4826,6 +4874,12 @@
     ],
     [
       "Delaware",
+      "4\/21\/20",
+      2931,
+      82
+    ],
+    [
+      "Delaware",
       "4\/3\/20",
       450,
       14
@@ -5361,6 +5415,12 @@
     [
       "Diamond Princess",
       "4\/20\/20",
+      49,
+      0
+    ],
+    [
+      "Diamond Princess",
+      "4\/21\/20",
       49,
       0
     ],
@@ -5906,6 +5966,12 @@
     ],
     [
       "District of Columbia",
+      "4\/21\/20",
+      3098,
+      112
+    ],
+    [
+      "District of Columbia",
       "4\/3\/20",
       757,
       15
@@ -5945,6 +6011,552 @@
       "4\/9\/20",
       1523,
       32
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "1\/22\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "1\/23\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "1\/24\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "1\/25\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "1\/26\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "1\/27\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "1\/28\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "1\/29\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "1\/30\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "1\/31\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "2\/1\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "2\/10\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "2\/11\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "2\/12\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "2\/13\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "2\/14\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "2\/15\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "2\/16\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "2\/17\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "2\/18\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "2\/19\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "2\/2\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "2\/20\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "2\/21\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "2\/22\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "2\/23\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "2\/24\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "2\/25\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "2\/26\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "2\/27\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "2\/28\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "2\/29\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "2\/3\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "2\/4\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "2\/5\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "2\/6\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "2\/7\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "2\/8\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "2\/9\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/1\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/10\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/11\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/12\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/13\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/14\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/15\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/16\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/17\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/18\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/19\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/2\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/20\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/21\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/22\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/23\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/24\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/25\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/26\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/27\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/28\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/29\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/3\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/30\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/31\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/4\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/5\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/6\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/7\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/8\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "3\/9\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "4\/1\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "4\/10\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "4\/11\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "4\/12\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "4\/13\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "4\/14\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "4\/15\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "4\/16\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "4\/17\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "4\/18\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "4\/19\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "4\/2\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "4\/20\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "4\/21\/20",
+      816,
+      22
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "4\/3\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "4\/4\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "4\/5\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "4\/6\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "4\/7\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "4\/8\/20",
+      0,
+      0
+    ],
+    [
+      "Federal Bureau of Prisons",
+      "4\/9\/20",
+      0,
+      0
     ],
     [
       "Florida",
@@ -6443,6 +7055,12 @@
       "4\/20\/20",
       27059,
       822
+    ],
+    [
+      "Florida",
+      "4\/21\/20",
+      27869,
+      867
     ],
     [
       "Florida",
@@ -6986,6 +7604,12 @@
     ],
     [
       "Georgia",
+      "4\/21\/20",
+      19881,
+      798
+    ],
+    [
+      "Georgia",
       "4\/3\/20",
       5831,
       184
@@ -7526,6 +8150,12 @@
     ],
     [
       "Grand Princess",
+      "4\/21\/20",
+      103,
+      0
+    ],
+    [
+      "Grand Princess",
       "4\/3\/20",
       103,
       3
@@ -8061,6 +8691,12 @@
     [
       "Guam",
       "4\/20\/20",
+      136,
+      5
+    ],
+    [
+      "Guam",
+      "4\/21\/20",
       136,
       5
     ],
@@ -8606,6 +9242,12 @@
     ],
     [
       "Hawaii",
+      "4\/21\/20",
+      586,
+      10
+    ],
+    [
+      "Hawaii",
       "4\/3\/20",
       319,
       3
@@ -9143,6 +9785,12 @@
       "4\/20\/20",
       1672,
       45
+    ],
+    [
+      "Idaho",
+      "4\/21\/20",
+      1736,
+      48
     ],
     [
       "Idaho",
@@ -9686,6 +10334,12 @@
     ],
     [
       "Illinois",
+      "4\/21\/20",
+      33059,
+      1468
+    ],
+    [
+      "Illinois",
       "4\/3\/20",
       8904,
       210
@@ -10223,6 +10877,12 @@
       "4\/20\/20",
       11688,
       577
+    ],
+    [
+      "Indiana",
+      "4\/21\/20",
+      12097,
+      635
     ],
     [
       "Indiana",
@@ -10766,6 +11426,12 @@
     ],
     [
       "Iowa",
+      "4\/21\/20",
+      3641,
+      83
+    ],
+    [
+      "Iowa",
       "4\/3\/20",
       699,
       11
@@ -11303,6 +11969,12 @@
       "4\/20\/20",
       2048,
       102
+    ],
+    [
+      "Kansas",
+      "4\/21\/20",
+      2164,
+      109
     ],
     [
       "Kansas",
@@ -11846,6 +12518,12 @@
     ],
     [
       "Kentucky",
+      "4\/21\/20",
+      3204,
+      171
+    ],
+    [
+      "Kentucky",
       "4\/3\/20",
       770,
       34
@@ -12383,6 +13061,12 @@
       "4\/20\/20",
       24523,
       1328
+    ],
+    [
+      "Louisiana",
+      "4\/21\/20",
+      24854,
+      1405
     ],
     [
       "Louisiana",
@@ -12926,6 +13610,12 @@
     ],
     [
       "Maine",
+      "4\/21\/20",
+      888,
+      36
+    ],
+    [
+      "Maine",
       "4\/3\/20",
       432,
       9
@@ -13463,6 +14153,12 @@
       "4\/20\/20",
       13684,
       582
+    ],
+    [
+      "Maryland",
+      "4\/21\/20",
+      14193,
+      652
     ],
     [
       "Maryland",
@@ -14006,6 +14702,12 @@
     ],
     [
       "Massachusetts",
+      "4\/21\/20",
+      41199,
+      1961
+    ],
+    [
+      "Massachusetts",
       "4\/3\/20",
       10402,
       192
@@ -14543,6 +15245,12 @@
       "4\/20\/20",
       32000,
       2468
+    ],
+    [
+      "Michigan",
+      "4\/21\/20",
+      32667,
+      2575
     ],
     [
       "Michigan",
@@ -15086,6 +15794,12 @@
     ],
     [
       "Minnesota",
+      "4\/21\/20",
+      2567,
+      160
+    ],
+    [
+      "Minnesota",
       "4\/3\/20",
       788,
       22
@@ -15623,6 +16337,12 @@
       "4\/20\/20",
       4512,
       169
+    ],
+    [
+      "Mississippi",
+      "4\/21\/20",
+      4716,
+      183
     ],
     [
       "Mississippi",
@@ -16166,6 +16886,12 @@
     ],
     [
       "Missouri",
+      "4\/21\/20",
+      6066,
+      224
+    ],
+    [
+      "Missouri",
       "4\/3\/20",
       1864,
       25
@@ -16706,6 +17432,12 @@
     ],
     [
       "Montana",
+      "4\/21\/20",
+      437,
+      12
+    ],
+    [
+      "Montana",
       "4\/3\/20",
       243,
       5
@@ -17242,6 +17974,12 @@
       "Nebraska",
       "4\/20\/20",
       1648,
+      33
+    ],
+    [
+      "Nebraska",
+      "4\/21\/20",
+      1685,
       33
     ],
     [
@@ -17786,6 +18524,12 @@
     ],
     [
       "Nevada",
+      "4\/21\/20",
+      3937,
+      163
+    ],
+    [
+      "Nevada",
       "4\/3\/20",
       1514,
       43
@@ -18322,6 +19066,12 @@
       "New Hampshire",
       "4\/20\/20",
       1447,
+      42
+    ],
+    [
+      "New Hampshire",
+      "4\/21\/20",
+      1490,
       42
     ],
     [
@@ -18866,6 +19616,12 @@
     ],
     [
       "New Jersey",
+      "4\/21\/20",
+      92387,
+      4753
+    ],
+    [
+      "New Jersey",
       "4\/3\/20",
       29895,
       646
@@ -19329,7 +20085,7 @@
     [
       "New Mexico",
       "4\/1\/20",
-      340,
+      327,
       5
     ],
     [
@@ -19395,7 +20151,7 @@
     [
       "New Mexico",
       "4\/2\/20",
-      388,
+      373,
       6
     ],
     [
@@ -19406,38 +20162,44 @@
     ],
     [
       "New Mexico",
+      "4\/21\/20",
+      1971,
+      58
+    ],
+    [
+      "New Mexico",
       "4\/3\/20",
-      534,
+      490,
       10
     ],
     [
       "New Mexico",
       "4\/4\/20",
-      534,
-      10
+      506,
+      11
     ],
     [
       "New Mexico",
       "4\/5\/20",
-      670,
+      624,
       12
     ],
     [
       "New Mexico",
       "4\/6\/20",
-      757,
+      686,
       12
     ],
     [
       "New Mexico",
       "4\/7\/20",
-      876,
+      794,
       13
     ],
     [
       "New Mexico",
       "4\/8\/20",
-      902,
+      821,
       13
     ],
     [
@@ -19943,6 +20705,12 @@
       "4\/20\/20",
       253060,
       18611
+    ],
+    [
+      "New York",
+      "4\/21\/20",
+      258361,
+      19104
     ],
     [
       "New York",
@@ -20486,6 +21254,12 @@
     ],
     [
       "North Carolina",
+      "4\/21\/20",
+      7134,
+      245
+    ],
+    [
+      "North Carolina",
       "4\/3\/20",
       2251,
       27
@@ -21026,6 +21800,12 @@
     ],
     [
       "North Dakota",
+      "4\/21\/20",
+      644,
+      13
+    ],
+    [
+      "North Dakota",
       "4\/3\/20",
       173,
       3
@@ -21561,6 +22341,12 @@
     [
       "Northern Mariana Islands",
       "4\/20\/20",
+      14,
+      2
+    ],
+    [
+      "Northern Mariana Islands",
+      "4\/21\/20",
       14,
       2
     ],
@@ -22106,6 +22892,12 @@
     ],
     [
       "Ohio",
+      "4\/21\/20",
+      13725,
+      557
+    ],
+    [
+      "Ohio",
       "4\/3\/20",
       3312,
       91
@@ -22643,6 +23435,12 @@
       "4\/20\/20",
       2680,
       143
+    ],
+    [
+      "Oklahoma",
+      "4\/21\/20",
+      2807,
+      164
     ],
     [
       "Oklahoma",
@@ -23186,6 +23984,12 @@
     ],
     [
       "Oregon",
+      "4\/21\/20",
+      2004,
+      78
+    ],
+    [
+      "Oregon",
       "4\/3\/20",
       899,
       22
@@ -23723,6 +24527,12 @@
       "4\/20\/20",
       33914,
       1348
+    ],
+    [
+      "Pennsylvania",
+      "4\/21\/20",
+      35249,
+      1614
     ],
     [
       "Pennsylvania",
@@ -24266,6 +25076,12 @@
     ],
     [
       "Puerto Rico",
+      "4\/21\/20",
+      1298,
+      64
+    ],
+    [
+      "Puerto Rico",
       "4\/3\/20",
       316,
       15
@@ -24803,6 +25619,12 @@
       "4\/20\/20",
       5090,
       155
+    ],
+    [
+      "Rhode Island",
+      "4\/21\/20",
+      5500,
+      171
     ],
     [
       "Rhode Island",
@@ -25346,6 +26168,12 @@
     ],
     [
       "South Carolina",
+      "4\/21\/20",
+      4439,
+      124
+    ],
+    [
+      "South Carolina",
       "4\/3\/20",
       1700,
       34
@@ -25883,6 +26711,12 @@
       "4\/20\/20",
       1685,
       7
+    ],
+    [
+      "South Dakota",
+      "4\/21\/20",
+      1755,
+      8
     ],
     [
       "South Dakota",
@@ -26426,6 +27260,12 @@
     ],
     [
       "Tennessee",
+      "4\/21\/20",
+      7394,
+      157
+    ],
+    [
+      "Tennessee",
       "4\/3\/20",
       3067,
       41
@@ -26966,6 +27806,12 @@
     ],
     [
       "Texas",
+      "4\/21\/20",
+      20574,
+      533
+    ],
+    [
+      "Texas",
       "4\/3\/20",
       5734,
       100
@@ -27005,6 +27851,552 @@
       "4\/9\/20",
       11208,
       210
+    ],
+    [
+      "US Military",
+      "1\/22\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "1\/23\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "1\/24\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "1\/25\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "1\/26\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "1\/27\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "1\/28\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "1\/29\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "1\/30\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "1\/31\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "2\/1\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "2\/10\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "2\/11\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "2\/12\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "2\/13\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "2\/14\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "2\/15\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "2\/16\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "2\/17\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "2\/18\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "2\/19\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "2\/2\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "2\/20\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "2\/21\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "2\/22\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "2\/23\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "2\/24\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "2\/25\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "2\/26\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "2\/27\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "2\/28\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "2\/29\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "2\/3\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "2\/4\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "2\/5\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "2\/6\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "2\/7\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "2\/8\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "2\/9\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/1\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/10\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/11\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/12\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/13\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/14\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/15\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/16\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/17\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/18\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/19\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/2\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/20\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/21\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/22\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/23\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/24\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/25\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/26\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/27\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/28\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/29\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/3\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/30\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/31\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/4\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/5\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/6\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/7\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/8\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "3\/9\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "4\/1\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "4\/10\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "4\/11\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "4\/12\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "4\/13\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "4\/14\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "4\/15\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "4\/16\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "4\/17\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "4\/18\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "4\/19\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "4\/2\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "4\/20\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "4\/21\/20",
+      5335,
+      22
+    ],
+    [
+      "US Military",
+      "4\/3\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "4\/4\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "4\/5\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "4\/6\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "4\/7\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "4\/8\/20",
+      0,
+      0
+    ],
+    [
+      "US Military",
+      "4\/9\/20",
+      0,
+      0
     ],
     [
       "Utah",
@@ -27495,7 +28887,7 @@
     [
       "Utah",
       "4\/2\/20",
-      1092,
+      1086,
       7
     ],
     [
@@ -27506,38 +28898,44 @@
     ],
     [
       "Utah",
+      "4\/21\/20",
+      3297,
+      32
+    ],
+    [
+      "Utah",
       "4\/3\/20",
-      1255,
+      1248,
       7
     ],
     [
       "Utah",
       "4\/4\/20",
-      1435,
+      1428,
       8
     ],
     [
       "Utah",
       "4\/5\/20",
-      1608,
+      1601,
       8
     ],
     [
       "Utah",
       "4\/6\/20",
-      1685,
+      1678,
       13
     ],
     [
       "Utah",
       "4\/7\/20",
-      1746,
+      1739,
       13
     ],
     [
       "Utah",
       "4\/8\/20",
-      1855,
+      1848,
       13
     ],
     [
@@ -28046,6 +29444,12 @@
     ],
     [
       "Vermont",
+      "4\/21\/20",
+      818,
+      40
+    ],
+    [
+      "Vermont",
       "4\/3\/20",
       389,
       17
@@ -28085,6 +29489,552 @@
       "4\/9\/20",
       628,
       23
+    ],
+    [
+      "Veteran Hospitals",
+      "1\/22\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "1\/23\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "1\/24\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "1\/25\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "1\/26\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "1\/27\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "1\/28\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "1\/29\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "1\/30\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "1\/31\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "2\/1\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "2\/10\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "2\/11\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "2\/12\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "2\/13\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "2\/14\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "2\/15\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "2\/16\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "2\/17\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "2\/18\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "2\/19\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "2\/2\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "2\/20\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "2\/21\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "2\/22\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "2\/23\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "2\/24\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "2\/25\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "2\/26\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "2\/27\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "2\/28\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "2\/29\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "2\/3\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "2\/4\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "2\/5\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "2\/6\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "2\/7\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "2\/8\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "2\/9\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/1\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/10\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/11\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/12\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/13\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/14\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/15\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/16\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/17\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/18\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/19\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/2\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/20\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/21\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/22\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/23\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/24\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/25\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/26\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/27\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/28\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/29\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/3\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/30\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/31\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/4\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/5\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/6\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/7\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/8\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "3\/9\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "4\/1\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "4\/10\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "4\/11\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "4\/12\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "4\/13\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "4\/14\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "4\/15\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "4\/16\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "4\/17\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "4\/18\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "4\/19\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "4\/2\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "4\/20\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "4\/21\/20",
+      5599,
+      357
+    ],
+    [
+      "Veteran Hospitals",
+      "4\/3\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "4\/4\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "4\/5\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "4\/6\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "4\/7\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "4\/8\/20",
+      0,
+      0
+    ],
+    [
+      "Veteran Hospitals",
+      "4\/9\/20",
+      0,
+      0
     ],
     [
       "Virgin Islands",
@@ -28581,6 +30531,12 @@
     [
       "Virgin Islands",
       "4\/20\/20",
+      53,
+      3
+    ],
+    [
+      "Virgin Islands",
+      "4\/21\/20",
       53,
       3
     ],
@@ -29126,6 +31082,12 @@
     ],
     [
       "Virginia",
+      "4\/21\/20",
+      9630,
+      324
+    ],
+    [
+      "Virginia",
       "4\/3\/20",
       2012,
       46
@@ -29663,6 +31625,12 @@
       "4\/20\/20",
       12114,
       643
+    ],
+    [
+      "Washington",
+      "4\/21\/20",
+      12563,
+      664
     ],
     [
       "Washington",
@@ -30206,6 +32174,12 @@
     ],
     [
       "West Virginia",
+      "4\/21\/20",
+      908,
+      26
+    ],
+    [
+      "West Virginia",
       "4\/3\/20",
       237,
       2
@@ -30746,6 +32720,12 @@
     ],
     [
       "Wisconsin",
+      "4\/21\/20",
+      4625,
+      244
+    ],
+    [
+      "Wisconsin",
       "4\/3\/20",
       2012,
       51
@@ -31282,6 +33262,12 @@
       "Wyoming",
       "4\/20\/20",
       317,
+      2
+    ],
+    [
+      "Wyoming",
+      "4\/21\/20",
+      443,
       2
     ],
     [
