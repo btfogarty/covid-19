@@ -1,66 +1,20 @@
+[
+	"Virginia",
 {
-  "Virginia": [
-    {
-      "date": "2020-1-22",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
-    },
-    {
-      "date": "2020-1-23",
-      "confirmed": 3,
-      "deaths": 0,
-      "recovered": 0
-    },
-	{
-      "date": "2020-1-24",
-      "confirmed": 6,
-      "deaths": 0,
-      "recovered": 0
-    },
-	{
-      "date": "2020-1-25",
-      "confirmed": 12,
-      "deaths": 0,
-      "recovered": 0
-    },
-	{
-      "date": "2020-1-26",
-      "confirmed": 24,
-      "deaths": 0,
-      "recovered": 0
-    }
-	],
-"Maryland": [
-    {
-      "date": "2020-1-22",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
-    },
-    {
-      "date": "2020-1-23",
-      "confirmed": 6,
-      "deaths": 0,
-      "recovered": 0
-    },
-	{
-      "date": "2020-1-24",
-      "confirmed": 8,
-      "deaths": 0,
-      "recovered": 0
-    },
-	{
-      "date": "2020-1-25",
-      "confirmed": 15,
-      "deaths": 0,
-      "recovered": 0
-    },
-	{
-      "date": "2020-1-26",
-      "confirmed": 34,
-      "deaths": 0,
-      "recovered": 0
-    }
-	]
+	"report":
+		[
+			{"Date":"1\/22\/20","Confirmed":0,"Deaths":0},
+			{"Date":"1\/23\/20","Confirmed":3,"Deaths":1},
+			{"Date":"1\/24\/20","Confirmed":4,"Deaths":2}
+		]
+},
+	"Maryland",
+{
+	"report":
+		[
+			{"Date":"1\/22\/20","Confirmed":3,"Deaths":2},
+			{"Date":"1\/23\/20","Confirmed":6,"Deaths":3},
+			{"Date":"1\/24\/20","Confirmed":12,"Deaths":8}
+		]
 }
+]
