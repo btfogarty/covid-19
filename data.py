@@ -42,7 +42,7 @@ while col < num_cols:
     #increment day
     col = col + 1
     
-   
+
 #write the output file (csv)
 url = 'C:\\Users\\' + getpass.getuser() + '\\Documents\\GitHub\\\covid-19\\data\\covid_data.csv'
 data_out.to_csv(url)
@@ -59,4 +59,5 @@ data_sum.to_json(url, orient = 'split', index=False, indent = 2)
 #Virginia Data
 data_va = data_sum.loc[data_sum['Province_State'] == 'Virginia']
 url = 'C:\\Users\\' + getpass.getuser() + '\\Documents\\GitHub\\\covid-19\\data\\covid_va_data.json'
-data_va.to_json(url, orient = 'split', index=False, indent = 2)
+#data_va.to_json(url, orient = 'records', indent = 2)
+data_va.to_json(url, orient = 'records',  indent = 2)
