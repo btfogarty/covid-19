@@ -511,6 +511,12 @@
   },
   {
     "Province_State":"Virginia",
+    "Date":"4\/23\/20",
+    "Confirmed":10998,
+    "Deaths":373
+  },
+  {
+    "Province_State":"Virginia",
     "Date":"4\/3\/20",
     "Confirmed":2012,
     "Deaths":46
