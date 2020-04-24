@@ -86,9 +86,9 @@ while idx < len(states):
     
     for index, row in state_data.iterrows():
         if num_rows + 1 <= len(state_data.index):
-            file.write('\t\t\t\t{"Date":"' + str(row['Date']) + '", "Confirmed":' + str(row['Confirmed']) + ', "Deaths":' + str(row['Deaths']) + ' },\n')
+            file.write('\t\t\t\t{"Date":"' + str(row['Date'].strftime('%m/%d/%Y')) + '", "Confirmed":' + str(row['Confirmed']) + ', "Deaths":' + str(row['Deaths']) + ' },\n')
         else:
-            file.write('\t\t\t\t{"Date":"' + str(row['Date']) + '", "Confirmed":' + str(row['Confirmed']) + ', "Deaths":' + str(row['Deaths']) + ' }\n')
+            file.write('\t\t\t\t{"Date":"' + str(row['Date'].strftime('%m/%d/%Y')) + '", "Confirmed":' + str(row['Confirmed']) + ', "Deaths":' + str(row['Deaths']) + ' }\n')
         num_rows = num_rows + 1
     
     file.write('\t\t\t]\n')
