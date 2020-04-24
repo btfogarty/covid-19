@@ -53,6 +53,8 @@ while col < num_cols:
 
 #aggregate data
 data_sum = data_out.groupby(['Province_State','Date'], as_index = False)['Confirmed','Deaths'].sum()
+data_sum['Date'] = pandas.to_datetime(data_sum['Date'],dayfirst = False)
+data_sum = data_sum.sort_values(['Province_State','Date'], ascending = [True, True])
 #url = 'C:\\Users\\' + getpass.getuser() + '\\Documents\\GitHub\\\covid-19\\data\\covid_states_data.json'
 #data_sum.to_json(url, orient = 'split', index=False, indent = 2)
 
@@ -76,15 +78,17 @@ while idx < len(states):
     file.write('\t\t"report":\n')
     file.write('\t\t\t[\n')
     
+    #get state data and sort by date
     state_data = data_sum.loc[data_sum['Province_State'] == states[idx]]
+    
     num_rows = 1
     len(state_data.index)
     
     for index, row in state_data.iterrows():
         if num_rows + 1 <= len(state_data.index):
-            file.write('\t\t\t\t{"Date":"' + row['Date'] + '", "Confirmed":' + str(row['Confirmed']) + ', "Deaths":' + str(row['Deaths']) + ' },\n')
+            file.write('\t\t\t\t{"Date":"' + str(row['Date']) + '", "Confirmed":' + str(row['Confirmed']) + ', "Deaths":' + str(row['Deaths']) + ' },\n')
         else:
-            file.write('\t\t\t\t{"Date":"' + row['Date'] + '", "Confirmed":' + str(row['Confirmed']) + ', "Deaths":' + str(row['Deaths']) + ' }\n')
+            file.write('\t\t\t\t{"Date":"' + str(row['Date']) + '", "Confirmed":' + str(row['Confirmed']) + ', "Deaths":' + str(row['Deaths']) + ' }\n')
         num_rows = num_rows + 1
     
     file.write('\t\t\t]\n')
