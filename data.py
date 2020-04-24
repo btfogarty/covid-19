@@ -44,20 +44,59 @@ while col < num_cols:
     
 
 #write the output file (csv)
-url = 'C:\\Users\\' + getpass.getuser() + '\\Documents\\GitHub\\\covid-19\\data\\covid_data.csv'
-data_out.to_csv(url)
+#url = 'C:\\Users\\' + getpass.getuser() + '\\Documents\\GitHub\\\covid-19\\data\\covid_data.csv'
+#data_out.to_csv(url)
 
 #write the output file (json)
-url = 'C:\\Users\\' + getpass.getuser() + '\\Documents\\GitHub\\\covid-19\\data\\covid_data.json'
-data_out.to_json(url, orient = 'records', lines = True, indent = 2)
+#url = 'C:\\Users\\' + getpass.getuser() + '\\Documents\\GitHub\\\covid-19\\data\\covid_data.json'
+#data_out.to_json(url, orient = 'records', lines = True, indent = 2)
 
 #aggregate data
 data_sum = data_out.groupby(['Province_State','Date'], as_index = False)['Confirmed','Deaths'].sum()
-url = 'C:\\Users\\' + getpass.getuser() + '\\Documents\\GitHub\\\covid-19\\data\\covid_states_data.json'
-data_sum.to_json(url, orient = 'split', index=False, indent = 2)
+#url = 'C:\\Users\\' + getpass.getuser() + '\\Documents\\GitHub\\\covid-19\\data\\covid_states_data.json'
+#data_sum.to_json(url, orient = 'split', index=False, indent = 2)
 
 #Virginia Data
-data_va = data_sum.loc[data_sum['Province_State'] == 'Virginia']
-url = 'C:\\Users\\' + getpass.getuser() + '\\Documents\\GitHub\\\covid-19\\data\\covid_va_data.json'
+#data_va = data_sum.loc[data_sum['Province_State'] == 'Virginia']
+#url = 'C:\\Users\\' + getpass.getuser() + '\\Documents\\GitHub\\\covid-19\\data\\covid_va_data.json'
 #data_va.to_json(url, orient = 'records', indent = 2)
-data_va.to_json(url, orient = 'records',  indent = 2)
+#data_va.to_json(url, orient = 'records',  indent = 2)
+
+states = data_sum['Province_State'].unique()
+idx = 0
+
+url = 'C:\\Users\\' + getpass.getuser() + '\\Documents\\GitHub\\\covid-19\\data\\covid_states_data.json'
+file = open(url,'w')
+file.write('[\n')
+#write custom JSON file
+while idx < len(states):
+    
+    print(states[idx])
+    file.write('\t{"state":"' + states[idx] + '",\n')
+    file.write('\t\t"report":\n')
+    file.write('\t\t\t[\n')
+    
+    state_data = data_sum.loc[data_sum['Province_State'] == states[idx]]
+    num_rows = 1
+    len(state_data.index)
+    
+    for index, row in state_data.iterrows():
+        if num_rows + 1 <= len(state_data.index):
+            file.write('\t\t\t\t{"Date":"' + row['Date'] + '", "Confirmed":' + str(row['Confirmed']) + ', "Deaths":' + str(row['Deaths']) + ' },\n')
+        else:
+            file.write('\t\t\t\t{"Date":"' + row['Date'] + '", "Confirmed":' + str(row['Confirmed']) + ', "Deaths":' + str(row['Deaths']) + ' }\n')
+        num_rows = num_rows + 1
+    
+    file.write('\t\t\t]\n')
+    idx = idx + 1
+    
+    if idx < len(states):
+        file.write('\t},\n')
+    else:
+        file.write('\t}\n')
+    
+    
+    
+file.write("]")
+file.close()
+
