@@ -55,6 +55,16 @@ while col < num_cols:
 data_sum = data_out.groupby(['Province_State','Date'], as_index = False)['Confirmed','Deaths'].sum()
 data_sum['Date'] = pandas.to_datetime(data_sum['Date'],dayfirst = False)
 data_sum = data_sum.sort_values(['Province_State','Date'], ascending = [True, True])
+
+#USA Summary
+data_usa = data_out.groupby(['Date'], as_index = False)['Confirmed','Deaths'].sum()
+data_usa['Date'] = pandas.to_datetime(data_usa['Date'],dayfirst = False)
+data_usa = data_usa.sort_values(['Date'], ascending = [True])
+data_usa['Province_State'] = 'USA'
+data_usa = data_usa[['Province_State','Date','Confirmed','Deaths']]
+
+data_sum = data_sum.append(data_usa[['Province_State','Date','Confirmed','Deaths']],ignore_index=True)
+
 #url = 'C:\\Users\\' + getpass.getuser() + '\\Documents\\GitHub\\\covid-19\\data\\covid_states_data.json'
 #data_sum.to_json(url, orient = 'split', index=False, indent = 2)
 
