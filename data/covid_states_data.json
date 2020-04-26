@@ -95,7 +95,8 @@
 				{"Date":"04/21/2020", "Confirmed":5317, "Deaths":183 },
 				{"Date":"04/22/2020", "Confirmed":5593, "Deaths":196 },
 				{"Date":"04/23/2020", "Confirmed":5832, "Deaths":202 },
-				{"Date":"04/24/2020", "Confirmed":6026, "Deaths":209 }
+				{"Date":"04/24/2020", "Confirmed":6026, "Deaths":209 },
+				{"Date":"04/25/2020", "Confirmed":6026, "Deaths":209 }
 			]
 	},
 	{"state":"Alaska",
@@ -194,7 +195,8 @@
 				{"Date":"04/21/2020", "Confirmed":329, "Deaths":9 },
 				{"Date":"04/22/2020", "Confirmed":335, "Deaths":9 },
 				{"Date":"04/23/2020", "Confirmed":337, "Deaths":9 },
-				{"Date":"04/24/2020", "Confirmed":339, "Deaths":9 }
+				{"Date":"04/24/2020", "Confirmed":339, "Deaths":9 },
+				{"Date":"04/25/2020", "Confirmed":339, "Deaths":9 }
 			]
 	},
 	{"state":"American Samoa",
@@ -293,7 +295,8 @@
 				{"Date":"04/21/2020", "Confirmed":0, "Deaths":0 },
 				{"Date":"04/22/2020", "Confirmed":0, "Deaths":0 },
 				{"Date":"04/23/2020", "Confirmed":0, "Deaths":0 },
-				{"Date":"04/24/2020", "Confirmed":0, "Deaths":0 }
+				{"Date":"04/24/2020", "Confirmed":0, "Deaths":0 },
+				{"Date":"04/25/2020", "Confirmed":0, "Deaths":0 }
 			]
 	},
 	{"state":"Arizona",
@@ -392,7 +395,8 @@
 				{"Date":"04/21/2020", "Confirmed":5256, "Deaths":208 },
 				{"Date":"04/22/2020", "Confirmed":5473, "Deaths":231 },
 				{"Date":"04/23/2020", "Confirmed":5772, "Deaths":249 },
-				{"Date":"04/24/2020", "Confirmed":6045, "Deaths":266 }
+				{"Date":"04/24/2020", "Confirmed":6045, "Deaths":266 },
+				{"Date":"04/25/2020", "Confirmed":6286, "Deaths":273 }
 			]
 	},
 	{"state":"Arkansas",
@@ -491,7 +495,8 @@
 				{"Date":"04/21/2020", "Confirmed":1990, "Deaths":42 },
 				{"Date":"04/22/2020", "Confirmed":2276, "Deaths":42 },
 				{"Date":"04/23/2020", "Confirmed":2599, "Deaths":45 },
-				{"Date":"04/24/2020", "Confirmed":2810, "Deaths":47 }
+				{"Date":"04/24/2020", "Confirmed":2810, "Deaths":47 },
+				{"Date":"04/25/2020", "Confirmed":2911, "Deaths":48 }
 			]
 	},
 	{"state":"California",
@@ -590,7 +595,8 @@
 				{"Date":"04/21/2020", "Confirmed":35465, "Deaths":1282 },
 				{"Date":"04/22/2020", "Confirmed":37344, "Deaths":1421 },
 				{"Date":"04/23/2020", "Confirmed":39561, "Deaths":1533 },
-				{"Date":"04/24/2020", "Confirmed":41355, "Deaths":1621 }
+				{"Date":"04/24/2020", "Confirmed":41355, "Deaths":1621 },
+				{"Date":"04/25/2020", "Confirmed":42368, "Deaths":1689 }
 			]
 	},
 	{"state":"Colorado",
@@ -689,7 +695,8 @@
 				{"Date":"04/21/2020", "Confirmed":10473, "Deaths":483 },
 				{"Date":"04/22/2020", "Confirmed":10891, "Deaths":506 },
 				{"Date":"04/23/2020", "Confirmed":11278, "Deaths":552 },
-				{"Date":"04/24/2020", "Confirmed":12256, "Deaths":674 }
+				{"Date":"04/24/2020", "Confirmed":12256, "Deaths":674 },
+				{"Date":"04/25/2020", "Confirmed":12968, "Deaths":684 }
 			]
 	},
 	{"state":"Connecticut",
@@ -788,7 +795,8 @@
 				{"Date":"04/21/2020", "Confirmed":20360, "Deaths":1423 },
 				{"Date":"04/22/2020", "Confirmed":22469, "Deaths":1544 },
 				{"Date":"04/23/2020", "Confirmed":23100, "Deaths":1639 },
-				{"Date":"04/24/2020", "Confirmed":23936, "Deaths":1767 }
+				{"Date":"04/24/2020", "Confirmed":23936, "Deaths":1767 },
+				{"Date":"04/25/2020", "Confirmed":24583, "Deaths":1865 }
 			]
 	},
 	{"state":"Delaware",
@@ -887,7 +895,8 @@
 				{"Date":"04/21/2020", "Confirmed":2931, "Deaths":82 },
 				{"Date":"04/22/2020", "Confirmed":3200, "Deaths":89 },
 				{"Date":"04/23/2020", "Confirmed":3308, "Deaths":92 },
-				{"Date":"04/24/2020", "Confirmed":3442, "Deaths":100 }
+				{"Date":"04/24/2020", "Confirmed":3442, "Deaths":100 },
+				{"Date":"04/25/2020", "Confirmed":3576, "Deaths":112 }
 			]
 	},
 	{"state":"Diamond Princess",
@@ -986,7 +995,8 @@
 				{"Date":"04/21/2020", "Confirmed":49, "Deaths":0 },
 				{"Date":"04/22/2020", "Confirmed":49, "Deaths":0 },
 				{"Date":"04/23/2020", "Confirmed":49, "Deaths":0 },
-				{"Date":"04/24/2020", "Confirmed":49, "Deaths":0 }
+				{"Date":"04/24/2020", "Confirmed":49, "Deaths":0 },
+				{"Date":"04/25/2020", "Confirmed":49, "Deaths":0 }
 			]
 	},
 	{"state":"District of Columbia",
@@ -1085,7 +1095,8 @@
 				{"Date":"04/21/2020", "Confirmed":3098, "Deaths":112 },
 				{"Date":"04/22/2020", "Confirmed":3206, "Deaths":127 },
 				{"Date":"04/23/2020", "Confirmed":3361, "Deaths":139 },
-				{"Date":"04/24/2020", "Confirmed":3528, "Deaths":153 }
+				{"Date":"04/24/2020", "Confirmed":3528, "Deaths":153 },
+				{"Date":"04/25/2020", "Confirmed":3699, "Deaths":165 }
 			]
 	},
 	{"state":"Florida",
@@ -1184,7 +1195,8 @@
 				{"Date":"04/21/2020", "Confirmed":27869, "Deaths":867 },
 				{"Date":"04/22/2020", "Confirmed":28309, "Deaths":893 },
 				{"Date":"04/23/2020", "Confirmed":29648, "Deaths":987 },
-				{"Date":"04/24/2020", "Confirmed":30533, "Deaths":1046 }
+				{"Date":"04/24/2020", "Confirmed":30533, "Deaths":1046 },
+				{"Date":"04/25/2020", "Confirmed":30839, "Deaths":1055 }
 			]
 	},
 	{"state":"Georgia",
@@ -1283,7 +1295,8 @@
 				{"Date":"04/21/2020", "Confirmed":19881, "Deaths":798 },
 				{"Date":"04/22/2020", "Confirmed":21214, "Deaths":848 },
 				{"Date":"04/23/2020", "Confirmed":21883, "Deaths":881 },
-				{"Date":"04/24/2020", "Confirmed":22491, "Deaths":899 }
+				{"Date":"04/24/2020", "Confirmed":22491, "Deaths":899 },
+				{"Date":"04/25/2020", "Confirmed":23222, "Deaths":907 }
 			]
 	},
 	{"state":"Grand Princess",
@@ -1382,7 +1395,8 @@
 				{"Date":"04/21/2020", "Confirmed":103, "Deaths":0 },
 				{"Date":"04/22/2020", "Confirmed":103, "Deaths":0 },
 				{"Date":"04/23/2020", "Confirmed":103, "Deaths":3 },
-				{"Date":"04/24/2020", "Confirmed":103, "Deaths":3 }
+				{"Date":"04/24/2020", "Confirmed":103, "Deaths":3 },
+				{"Date":"04/25/2020", "Confirmed":103, "Deaths":3 }
 			]
 	},
 	{"state":"Guam",
@@ -1481,7 +1495,8 @@
 				{"Date":"04/21/2020", "Confirmed":136, "Deaths":5 },
 				{"Date":"04/22/2020", "Confirmed":136, "Deaths":5 },
 				{"Date":"04/23/2020", "Confirmed":139, "Deaths":5 },
-				{"Date":"04/24/2020", "Confirmed":141, "Deaths":5 }
+				{"Date":"04/24/2020", "Confirmed":141, "Deaths":5 },
+				{"Date":"04/25/2020", "Confirmed":141, "Deaths":5 }
 			]
 	},
 	{"state":"Hawaii",
@@ -1580,7 +1595,8 @@
 				{"Date":"04/21/2020", "Confirmed":586, "Deaths":10 },
 				{"Date":"04/22/2020", "Confirmed":592, "Deaths":12 },
 				{"Date":"04/23/2020", "Confirmed":596, "Deaths":12 },
-				{"Date":"04/24/2020", "Confirmed":601, "Deaths":13 }
+				{"Date":"04/24/2020", "Confirmed":601, "Deaths":13 },
+				{"Date":"04/25/2020", "Confirmed":605, "Deaths":13 }
 			]
 	},
 	{"state":"Idaho",
@@ -1679,7 +1695,8 @@
 				{"Date":"04/21/2020", "Confirmed":1736, "Deaths":48 },
 				{"Date":"04/22/2020", "Confirmed":1766, "Deaths":51 },
 				{"Date":"04/23/2020", "Confirmed":1836, "Deaths":54 },
-				{"Date":"04/24/2020", "Confirmed":1870, "Deaths":54 }
+				{"Date":"04/24/2020", "Confirmed":1870, "Deaths":54 },
+				{"Date":"04/25/2020", "Confirmed":1887, "Deaths":56 }
 			]
 	},
 	{"state":"Illinois",
@@ -1778,7 +1795,8 @@
 				{"Date":"04/21/2020", "Confirmed":33059, "Deaths":1468 },
 				{"Date":"04/22/2020", "Confirmed":35107, "Deaths":1565 },
 				{"Date":"04/23/2020", "Confirmed":36937, "Deaths":1688 },
-				{"Date":"04/24/2020", "Confirmed":39658, "Deaths":1795 }
+				{"Date":"04/24/2020", "Confirmed":39658, "Deaths":1795 },
+				{"Date":"04/25/2020", "Confirmed":41777, "Deaths":1875 }
 			]
 	},
 	{"state":"Indiana",
@@ -1877,7 +1895,8 @@
 				{"Date":"04/21/2020", "Confirmed":12097, "Deaths":635 },
 				{"Date":"04/22/2020", "Confirmed":12438, "Deaths":666 },
 				{"Date":"04/23/2020", "Confirmed":13039, "Deaths":706 },
-				{"Date":"04/24/2020", "Confirmed":13681, "Deaths":741 }
+				{"Date":"04/24/2020", "Confirmed":13681, "Deaths":741 },
+				{"Date":"04/25/2020", "Confirmed":14399, "Deaths":786 }
 			]
 	},
 	{"state":"Iowa",
@@ -1976,7 +1995,8 @@
 				{"Date":"04/21/2020", "Confirmed":3641, "Deaths":83 },
 				{"Date":"04/22/2020", "Confirmed":3748, "Deaths":90 },
 				{"Date":"04/23/2020", "Confirmed":3924, "Deaths":96 },
-				{"Date":"04/24/2020", "Confirmed":4445, "Deaths":107 }
+				{"Date":"04/24/2020", "Confirmed":4445, "Deaths":107 },
+				{"Date":"04/25/2020", "Confirmed":5092, "Deaths":112 }
 			]
 	},
 	{"state":"Kansas",
@@ -2075,7 +2095,8 @@
 				{"Date":"04/21/2020", "Confirmed":2164, "Deaths":109 },
 				{"Date":"04/22/2020", "Confirmed":2331, "Deaths":112 },
 				{"Date":"04/23/2020", "Confirmed":2721, "Deaths":113 },
-				{"Date":"04/24/2020", "Confirmed":2959, "Deaths":118 }
+				{"Date":"04/24/2020", "Confirmed":2959, "Deaths":118 },
+				{"Date":"04/25/2020", "Confirmed":3135, "Deaths":120 }
 			]
 	},
 	{"state":"Kentucky",
@@ -2174,7 +2195,8 @@
 				{"Date":"04/21/2020", "Confirmed":3204, "Deaths":171 },
 				{"Date":"04/22/2020", "Confirmed":3378, "Deaths":185 },
 				{"Date":"04/23/2020", "Confirmed":3479, "Deaths":191 },
-				{"Date":"04/24/2020", "Confirmed":3779, "Deaths":200 }
+				{"Date":"04/24/2020", "Confirmed":3779, "Deaths":200 },
+				{"Date":"04/25/2020", "Confirmed":3915, "Deaths":205 }
 			]
 	},
 	{"state":"Louisiana",
@@ -2273,7 +2295,8 @@
 				{"Date":"04/21/2020", "Confirmed":24854, "Deaths":1405 },
 				{"Date":"04/22/2020", "Confirmed":25258, "Deaths":1473 },
 				{"Date":"04/23/2020", "Confirmed":25739, "Deaths":1599 },
-				{"Date":"04/24/2020", "Confirmed":26140, "Deaths":1660 }
+				{"Date":"04/24/2020", "Confirmed":26140, "Deaths":1660 },
+				{"Date":"04/25/2020", "Confirmed":26512, "Deaths":1707 }
 			]
 	},
 	{"state":"Maine",
@@ -2372,7 +2395,8 @@
 				{"Date":"04/21/2020", "Confirmed":888, "Deaths":36 },
 				{"Date":"04/22/2020", "Confirmed":907, "Deaths":39 },
 				{"Date":"04/23/2020", "Confirmed":937, "Deaths":44 },
-				{"Date":"04/24/2020", "Confirmed":965, "Deaths":47 }
+				{"Date":"04/24/2020", "Confirmed":965, "Deaths":47 },
+				{"Date":"04/25/2020", "Confirmed":965, "Deaths":47 }
 			]
 	},
 	{"state":"Maryland",
@@ -2471,7 +2495,8 @@
 				{"Date":"04/21/2020", "Confirmed":14193, "Deaths":652 },
 				{"Date":"04/22/2020", "Confirmed":14775, "Deaths":698 },
 				{"Date":"04/23/2020", "Confirmed":15737, "Deaths":748 },
-				{"Date":"04/24/2020", "Confirmed":16616, "Deaths":798 }
+				{"Date":"04/24/2020", "Confirmed":16616, "Deaths":798 },
+				{"Date":"04/25/2020", "Confirmed":17766, "Deaths":875 }
 			]
 	},
 	{"state":"Massachusetts",
@@ -2570,7 +2595,8 @@
 				{"Date":"04/21/2020", "Confirmed":41199, "Deaths":1961 },
 				{"Date":"04/22/2020", "Confirmed":42944, "Deaths":2182 },
 				{"Date":"04/23/2020", "Confirmed":46023, "Deaths":2360 },
-				{"Date":"04/24/2020", "Confirmed":50969, "Deaths":2556 }
+				{"Date":"04/24/2020", "Confirmed":50969, "Deaths":2556 },
+				{"Date":"04/25/2020", "Confirmed":53348, "Deaths":2730 }
 			]
 	},
 	{"state":"Michigan",
@@ -2669,7 +2695,8 @@
 				{"Date":"04/21/2020", "Confirmed":32667, "Deaths":2575 },
 				{"Date":"04/22/2020", "Confirmed":33966, "Deaths":2813 },
 				{"Date":"04/23/2020", "Confirmed":35296, "Deaths":2977 },
-				{"Date":"04/24/2020", "Confirmed":36666, "Deaths":3085 }
+				{"Date":"04/24/2020", "Confirmed":36666, "Deaths":3085 },
+				{"Date":"04/25/2020", "Confirmed":37074, "Deaths":3155 }
 			]
 	},
 	{"state":"Minnesota",
@@ -2768,7 +2795,8 @@
 				{"Date":"04/21/2020", "Confirmed":2567, "Deaths":160 },
 				{"Date":"04/22/2020", "Confirmed":2722, "Deaths":179 },
 				{"Date":"04/23/2020", "Confirmed":2942, "Deaths":200 },
-				{"Date":"04/24/2020", "Confirmed":3185, "Deaths":221 }
+				{"Date":"04/24/2020", "Confirmed":3185, "Deaths":221 },
+				{"Date":"04/25/2020", "Confirmed":3446, "Deaths":244 }
 			]
 	},
 	{"state":"Mississippi",
@@ -2867,7 +2895,8 @@
 				{"Date":"04/21/2020", "Confirmed":4716, "Deaths":183 },
 				{"Date":"04/22/2020", "Confirmed":4894, "Deaths":193 },
 				{"Date":"04/23/2020", "Confirmed":5153, "Deaths":201 },
-				{"Date":"04/24/2020", "Confirmed":5434, "Deaths":209 }
+				{"Date":"04/24/2020", "Confirmed":5434, "Deaths":209 },
+				{"Date":"04/25/2020", "Confirmed":5718, "Deaths":221 }
 			]
 	},
 	{"state":"Missouri",
@@ -2966,7 +2995,8 @@
 				{"Date":"04/21/2020", "Confirmed":6066, "Deaths":224 },
 				{"Date":"04/22/2020", "Confirmed":6277, "Deaths":238 },
 				{"Date":"04/23/2020", "Confirmed":6506, "Deaths":252 },
-				{"Date":"04/24/2020", "Confirmed":6788, "Deaths":272 }
+				{"Date":"04/24/2020", "Confirmed":6788, "Deaths":272 },
+				{"Date":"04/25/2020", "Confirmed":6935, "Deaths":281 }
 			]
 	},
 	{"state":"Montana",
@@ -3065,7 +3095,8 @@
 				{"Date":"04/21/2020", "Confirmed":437, "Deaths":12 },
 				{"Date":"04/22/2020", "Confirmed":439, "Deaths":14 },
 				{"Date":"04/23/2020", "Confirmed":442, "Deaths":14 },
-				{"Date":"04/24/2020", "Confirmed":444, "Deaths":14 }
+				{"Date":"04/24/2020", "Confirmed":444, "Deaths":14 },
+				{"Date":"04/25/2020", "Confirmed":445, "Deaths":14 }
 			]
 	},
 	{"state":"Nebraska",
@@ -3164,7 +3195,8 @@
 				{"Date":"04/21/2020", "Confirmed":1685, "Deaths":33 },
 				{"Date":"04/22/2020", "Confirmed":1813, "Deaths":38 },
 				{"Date":"04/23/2020", "Confirmed":2202, "Deaths":47 },
-				{"Date":"04/24/2020", "Confirmed":2424, "Deaths":50 }
+				{"Date":"04/24/2020", "Confirmed":2424, "Deaths":50 },
+				{"Date":"04/25/2020", "Confirmed":2719, "Deaths":50 }
 			]
 	},
 	{"state":"Nevada",
@@ -3263,7 +3295,8 @@
 				{"Date":"04/21/2020", "Confirmed":3937, "Deaths":163 },
 				{"Date":"04/22/2020", "Confirmed":4081, "Deaths":172 },
 				{"Date":"04/23/2020", "Confirmed":4208, "Deaths":195 },
-				{"Date":"04/24/2020", "Confirmed":4398, "Deaths":197 }
+				{"Date":"04/24/2020", "Confirmed":4398, "Deaths":197 },
+				{"Date":"04/25/2020", "Confirmed":4539, "Deaths":205 }
 			]
 	},
 	{"state":"New Hampshire",
@@ -3362,7 +3395,8 @@
 				{"Date":"04/21/2020", "Confirmed":1490, "Deaths":42 },
 				{"Date":"04/22/2020", "Confirmed":1588, "Deaths":48 },
 				{"Date":"04/23/2020", "Confirmed":1670, "Deaths":51 },
-				{"Date":"04/24/2020", "Confirmed":1720, "Deaths":53 }
+				{"Date":"04/24/2020", "Confirmed":1720, "Deaths":53 },
+				{"Date":"04/25/2020", "Confirmed":1797, "Deaths":53 }
 			]
 	},
 	{"state":"New Jersey",
@@ -3461,7 +3495,8 @@
 				{"Date":"04/21/2020", "Confirmed":92387, "Deaths":4753 },
 				{"Date":"04/22/2020", "Confirmed":95914, "Deaths":5150 },
 				{"Date":"04/23/2020", "Confirmed":100025, "Deaths":5426 },
-				{"Date":"04/24/2020", "Confirmed":102196, "Deaths":5683 }
+				{"Date":"04/24/2020", "Confirmed":102196, "Deaths":5683 },
+				{"Date":"04/25/2020", "Confirmed":105498, "Deaths":5914 }
 			]
 	},
 	{"state":"New Mexico",
@@ -3560,7 +3595,8 @@
 				{"Date":"04/21/2020", "Confirmed":1971, "Deaths":58 },
 				{"Date":"04/22/2020", "Confirmed":2210, "Deaths":71 },
 				{"Date":"04/23/2020", "Confirmed":2379, "Deaths":78 },
-				{"Date":"04/24/2020", "Confirmed":2521, "Deaths":84 }
+				{"Date":"04/24/2020", "Confirmed":2521, "Deaths":84 },
+				{"Date":"04/25/2020", "Confirmed":2660, "Deaths":93 }
 			]
 	},
 	{"state":"New York",
@@ -3616,50 +3652,51 @@
 				{"Date":"03/09/2020", "Confirmed":142, "Deaths":0 },
 				{"Date":"03/10/2020", "Confirmed":150, "Deaths":0 },
 				{"Date":"03/11/2020", "Confirmed":220, "Deaths":0 },
-				{"Date":"03/12/2020", "Confirmed":327, "Deaths":0 },
-				{"Date":"03/13/2020", "Confirmed":421, "Deaths":0 },
-				{"Date":"03/14/2020", "Confirmed":613, "Deaths":2 },
-				{"Date":"03/15/2020", "Confirmed":615, "Deaths":2 },
-				{"Date":"03/16/2020", "Confirmed":967, "Deaths":10 },
-				{"Date":"03/17/2020", "Confirmed":1578, "Deaths":13 },
-				{"Date":"03/18/2020", "Confirmed":3038, "Deaths":17 },
-				{"Date":"03/19/2020", "Confirmed":5704, "Deaths":38 },
-				{"Date":"03/20/2020", "Confirmed":8403, "Deaths":46 },
-				{"Date":"03/21/2020", "Confirmed":11727, "Deaths":60 },
-				{"Date":"03/22/2020", "Confirmed":15800, "Deaths":117 },
-				{"Date":"03/23/2020", "Confirmed":20884, "Deaths":158 },
-				{"Date":"03/24/2020", "Confirmed":25681, "Deaths":210 },
-				{"Date":"03/25/2020", "Confirmed":30841, "Deaths":285 },
-				{"Date":"03/26/2020", "Confirmed":37877, "Deaths":385 },
-				{"Date":"03/27/2020", "Confirmed":44876, "Deaths":527 },
-				{"Date":"03/28/2020", "Confirmed":52410, "Deaths":883 },
-				{"Date":"03/29/2020", "Confirmed":59648, "Deaths":1063 },
-				{"Date":"03/30/2020", "Confirmed":66663, "Deaths":1342 },
-				{"Date":"03/31/2020", "Confirmed":75833, "Deaths":1714 },
-				{"Date":"04/01/2020", "Confirmed":83948, "Deaths":2176 },
-				{"Date":"04/02/2020", "Confirmed":92506, "Deaths":2738 },
-				{"Date":"04/03/2020", "Confirmed":102987, "Deaths":3262 },
-				{"Date":"04/04/2020", "Confirmed":113833, "Deaths":3544 },
-				{"Date":"04/05/2020", "Confirmed":123160, "Deaths":4029 },
-				{"Date":"04/06/2020", "Confirmed":131815, "Deaths":4698 },
-				{"Date":"04/07/2020", "Confirmed":139875, "Deaths":5489 },
-				{"Date":"04/08/2020", "Confirmed":151061, "Deaths":6268 },
-				{"Date":"04/09/2020", "Confirmed":161779, "Deaths":7067 },
-				{"Date":"04/10/2020", "Confirmed":172348, "Deaths":7867 },
-				{"Date":"04/11/2020", "Confirmed":181026, "Deaths":8627 },
-				{"Date":"04/12/2020", "Confirmed":189033, "Deaths":9385 },
-				{"Date":"04/13/2020", "Confirmed":195749, "Deaths":10058 },
-				{"Date":"04/14/2020", "Confirmed":203020, "Deaths":10842 },
-				{"Date":"04/15/2020", "Confirmed":214454, "Deaths":11617 },
-				{"Date":"04/16/2020", "Confirmed":223691, "Deaths":14832 },
-				{"Date":"04/17/2020", "Confirmed":230597, "Deaths":17131 },
-				{"Date":"04/18/2020", "Confirmed":241712, "Deaths":17671 },
-				{"Date":"04/19/2020", "Confirmed":247815, "Deaths":18298 },
-				{"Date":"04/20/2020", "Confirmed":253060, "Deaths":18611 },
-				{"Date":"04/21/2020", "Confirmed":258361, "Deaths":19104 },
-				{"Date":"04/22/2020", "Confirmed":263292, "Deaths":19413 },
-				{"Date":"04/23/2020", "Confirmed":263460, "Deaths":20973 },
-				{"Date":"04/24/2020", "Confirmed":271590, "Deaths":21411 }
+				{"Date":"03/12/2020", "Confirmed":327, "Deaths":1 },
+				{"Date":"03/13/2020", "Confirmed":421, "Deaths":2 },
+				{"Date":"03/14/2020", "Confirmed":613, "Deaths":6 },
+				{"Date":"03/15/2020", "Confirmed":615, "Deaths":12 },
+				{"Date":"03/16/2020", "Confirmed":967, "Deaths":24 },
+				{"Date":"03/17/2020", "Confirmed":1578, "Deaths":38 },
+				{"Date":"03/18/2020", "Confirmed":3038, "Deaths":63 },
+				{"Date":"03/19/2020", "Confirmed":5704, "Deaths":96 },
+				{"Date":"03/20/2020", "Confirmed":8403, "Deaths":151 },
+				{"Date":"03/21/2020", "Confirmed":11727, "Deaths":195 },
+				{"Date":"03/22/2020", "Confirmed":15800, "Deaths":286 },
+				{"Date":"03/23/2020", "Confirmed":20884, "Deaths":387 },
+				{"Date":"03/24/2020", "Confirmed":25681, "Deaths":512 },
+				{"Date":"03/25/2020", "Confirmed":30841, "Deaths":659 },
+				{"Date":"03/26/2020", "Confirmed":37877, "Deaths":902 },
+				{"Date":"03/27/2020", "Confirmed":44876, "Deaths":1211 },
+				{"Date":"03/28/2020", "Confirmed":52410, "Deaths":1588 },
+				{"Date":"03/29/2020", "Confirmed":59648, "Deaths":2016 },
+				{"Date":"03/30/2020", "Confirmed":66663, "Deaths":2556 },
+				{"Date":"03/31/2020", "Confirmed":75833, "Deaths":3207 },
+				{"Date":"04/01/2020", "Confirmed":83948, "Deaths":3917 },
+				{"Date":"04/02/2020", "Confirmed":92506, "Deaths":4730 },
+				{"Date":"04/03/2020", "Confirmed":102987, "Deaths":5418 },
+				{"Date":"04/04/2020", "Confirmed":113833, "Deaths":5991 },
+				{"Date":"04/05/2020", "Confirmed":123160, "Deaths":6785 },
+				{"Date":"04/06/2020", "Confirmed":131815, "Deaths":7809 },
+				{"Date":"04/07/2020", "Confirmed":139875, "Deaths":8886 },
+				{"Date":"04/08/2020", "Confirmed":151061, "Deaths":9834 },
+				{"Date":"04/09/2020", "Confirmed":161779, "Deaths":10778 },
+				{"Date":"04/10/2020", "Confirmed":172348, "Deaths":11605 },
+				{"Date":"04/11/2020", "Confirmed":181026, "Deaths":12498 },
+				{"Date":"04/12/2020", "Confirmed":189033, "Deaths":13442 },
+				{"Date":"04/13/2020", "Confirmed":195749, "Deaths":14390 },
+				{"Date":"04/14/2020", "Confirmed":203020, "Deaths":15261 },
+				{"Date":"04/15/2020", "Confirmed":214454, "Deaths":16013 },
+				{"Date":"04/16/2020", "Confirmed":223691, "Deaths":16729 },
+				{"Date":"04/17/2020", "Confirmed":230597, "Deaths":17755 },
+				{"Date":"04/18/2020", "Confirmed":237474, "Deaths":18760 },
+				{"Date":"04/19/2020", "Confirmed":243382, "Deaths":18582 },
+				{"Date":"04/20/2020", "Confirmed":248416, "Deaths":19176 },
+				{"Date":"04/21/2020", "Confirmed":253519, "Deaths":19746 },
+				{"Date":"04/22/2020", "Confirmed":258222, "Deaths":20203 },
+				{"Date":"04/23/2020", "Confirmed":263460, "Deaths":20743 },
+				{"Date":"04/24/2020", "Confirmed":271590, "Deaths":20955 },
+				{"Date":"04/25/2020", "Confirmed":282143, "Deaths":22009 }
 			]
 	},
 	{"state":"North Carolina",
@@ -3758,7 +3795,8 @@
 				{"Date":"04/21/2020", "Confirmed":7134, "Deaths":245 },
 				{"Date":"04/22/2020", "Confirmed":7495, "Deaths":265 },
 				{"Date":"04/23/2020", "Confirmed":7820, "Deaths":281 },
-				{"Date":"04/24/2020", "Confirmed":8290, "Deaths":294 }
+				{"Date":"04/24/2020", "Confirmed":8290, "Deaths":294 },
+				{"Date":"04/25/2020", "Confirmed":8768, "Deaths":305 }
 			]
 	},
 	{"state":"North Dakota",
@@ -3857,7 +3895,8 @@
 				{"Date":"04/21/2020", "Confirmed":644, "Deaths":13 },
 				{"Date":"04/22/2020", "Confirmed":679, "Deaths":14 },
 				{"Date":"04/23/2020", "Confirmed":709, "Deaths":15 },
-				{"Date":"04/24/2020", "Confirmed":748, "Deaths":15 }
+				{"Date":"04/24/2020", "Confirmed":748, "Deaths":15 },
+				{"Date":"04/25/2020", "Confirmed":803, "Deaths":16 }
 			]
 	},
 	{"state":"Northern Mariana Islands",
@@ -3956,7 +3995,8 @@
 				{"Date":"04/21/2020", "Confirmed":14, "Deaths":2 },
 				{"Date":"04/22/2020", "Confirmed":14, "Deaths":2 },
 				{"Date":"04/23/2020", "Confirmed":14, "Deaths":2 },
-				{"Date":"04/24/2020", "Confirmed":14, "Deaths":2 }
+				{"Date":"04/24/2020", "Confirmed":14, "Deaths":2 },
+				{"Date":"04/25/2020", "Confirmed":14, "Deaths":2 }
 			]
 	},
 	{"state":"Ohio",
@@ -4055,7 +4095,8 @@
 				{"Date":"04/21/2020", "Confirmed":13725, "Deaths":557 },
 				{"Date":"04/22/2020", "Confirmed":14117, "Deaths":610 },
 				{"Date":"04/23/2020", "Confirmed":14694, "Deaths":656 },
-				{"Date":"04/24/2020", "Confirmed":15169, "Deaths":690 }
+				{"Date":"04/24/2020", "Confirmed":15169, "Deaths":690 },
+				{"Date":"04/25/2020", "Confirmed":15587, "Deaths":711 }
 			]
 	},
 	{"state":"Oklahoma",
@@ -4154,7 +4195,8 @@
 				{"Date":"04/21/2020", "Confirmed":2807, "Deaths":164 },
 				{"Date":"04/22/2020", "Confirmed":2894, "Deaths":170 },
 				{"Date":"04/23/2020", "Confirmed":3017, "Deaths":179 },
-				{"Date":"04/24/2020", "Confirmed":3121, "Deaths":188 }
+				{"Date":"04/24/2020", "Confirmed":3121, "Deaths":188 },
+				{"Date":"04/25/2020", "Confirmed":3194, "Deaths":194 }
 			]
 	},
 	{"state":"Oregon",
@@ -4253,7 +4295,8 @@
 				{"Date":"04/21/2020", "Confirmed":2004, "Deaths":78 },
 				{"Date":"04/22/2020", "Confirmed":2059, "Deaths":78 },
 				{"Date":"04/23/2020", "Confirmed":2127, "Deaths":83 },
-				{"Date":"04/24/2020", "Confirmed":2177, "Deaths":86 }
+				{"Date":"04/24/2020", "Confirmed":2177, "Deaths":86 },
+				{"Date":"04/25/2020", "Confirmed":2253, "Deaths":87 }
 			]
 	},
 	{"state":"Pennsylvania",
@@ -4352,7 +4395,8 @@
 				{"Date":"04/21/2020", "Confirmed":35249, "Deaths":1614 },
 				{"Date":"04/22/2020", "Confirmed":36082, "Deaths":1673 },
 				{"Date":"04/23/2020", "Confirmed":38379, "Deaths":1724 },
-				{"Date":"04/24/2020", "Confirmed":40208, "Deaths":1747 }
+				{"Date":"04/24/2020", "Confirmed":40208, "Deaths":1747 },
+				{"Date":"04/25/2020", "Confirmed":41153, "Deaths":1793 }
 			]
 	},
 	{"state":"Puerto Rico",
@@ -4451,7 +4495,8 @@
 				{"Date":"04/21/2020", "Confirmed":1298, "Deaths":64 },
 				{"Date":"04/22/2020", "Confirmed":1252, "Deaths":63 },
 				{"Date":"04/23/2020", "Confirmed":1416, "Deaths":69 },
-				{"Date":"04/24/2020", "Confirmed":1276, "Deaths":77 }
+				{"Date":"04/24/2020", "Confirmed":1276, "Deaths":77 },
+				{"Date":"04/25/2020", "Confirmed":1307, "Deaths":83 }
 			]
 	},
 	{"state":"Rhode Island",
@@ -4550,7 +4595,8 @@
 				{"Date":"04/21/2020", "Confirmed":5500, "Deaths":171 },
 				{"Date":"04/22/2020", "Confirmed":5841, "Deaths":181 },
 				{"Date":"04/23/2020", "Confirmed":6256, "Deaths":189 },
-				{"Date":"04/24/2020", "Confirmed":6699, "Deaths":202 }
+				{"Date":"04/24/2020", "Confirmed":6699, "Deaths":202 },
+				{"Date":"04/25/2020", "Confirmed":7129, "Deaths":215 }
 			]
 	},
 	{"state":"South Carolina",
@@ -4649,7 +4695,8 @@
 				{"Date":"04/21/2020", "Confirmed":4439, "Deaths":124 },
 				{"Date":"04/22/2020", "Confirmed":4761, "Deaths":140 },
 				{"Date":"04/23/2020", "Confirmed":4917, "Deaths":150 },
-				{"Date":"04/24/2020", "Confirmed":5070, "Deaths":157 }
+				{"Date":"04/24/2020", "Confirmed":5070, "Deaths":157 },
+				{"Date":"04/25/2020", "Confirmed":5253, "Deaths":166 }
 			]
 	},
 	{"state":"South Dakota",
@@ -4748,7 +4795,8 @@
 				{"Date":"04/21/2020", "Confirmed":1755, "Deaths":8 },
 				{"Date":"04/22/2020", "Confirmed":1858, "Deaths":9 },
 				{"Date":"04/23/2020", "Confirmed":1956, "Deaths":9 },
-				{"Date":"04/24/2020", "Confirmed":2040, "Deaths":10 }
+				{"Date":"04/24/2020", "Confirmed":2040, "Deaths":10 },
+				{"Date":"04/25/2020", "Confirmed":2147, "Deaths":10 }
 			]
 	},
 	{"state":"Tennessee",
@@ -4847,7 +4895,8 @@
 				{"Date":"04/21/2020", "Confirmed":7394, "Deaths":157 },
 				{"Date":"04/22/2020", "Confirmed":7394, "Deaths":157 },
 				{"Date":"04/23/2020", "Confirmed":8266, "Deaths":171 },
-				{"Date":"04/24/2020", "Confirmed":8728, "Deaths":169 }
+				{"Date":"04/24/2020", "Confirmed":8728, "Deaths":169 },
+				{"Date":"04/25/2020", "Confirmed":9189, "Deaths":177 }
 			]
 	},
 	{"state":"Texas",
@@ -4946,7 +4995,8 @@
 				{"Date":"04/21/2020", "Confirmed":20574, "Deaths":533 },
 				{"Date":"04/22/2020", "Confirmed":21321, "Deaths":556 },
 				{"Date":"04/23/2020", "Confirmed":22650, "Deaths":604 },
-				{"Date":"04/24/2020", "Confirmed":23642, "Deaths":624 }
+				{"Date":"04/24/2020", "Confirmed":23642, "Deaths":624 },
+				{"Date":"04/25/2020", "Confirmed":24153, "Deaths":638 }
 			]
 	},
 	{"state":"Utah",
@@ -5045,7 +5095,8 @@
 				{"Date":"04/21/2020", "Confirmed":3297, "Deaths":32 },
 				{"Date":"04/22/2020", "Confirmed":3445, "Deaths":32 },
 				{"Date":"04/23/2020", "Confirmed":3612, "Deaths":35 },
-				{"Date":"04/24/2020", "Confirmed":3782, "Deaths":39 }
+				{"Date":"04/24/2020", "Confirmed":3782, "Deaths":39 },
+				{"Date":"04/25/2020", "Confirmed":3948, "Deaths":41 }
 			]
 	},
 	{"state":"Vermont",
@@ -5144,7 +5195,8 @@
 				{"Date":"04/21/2020", "Confirmed":818, "Deaths":40 },
 				{"Date":"04/22/2020", "Confirmed":823, "Deaths":40 },
 				{"Date":"04/23/2020", "Confirmed":825, "Deaths":43 },
-				{"Date":"04/24/2020", "Confirmed":827, "Deaths":44 }
+				{"Date":"04/24/2020", "Confirmed":827, "Deaths":44 },
+				{"Date":"04/25/2020", "Confirmed":843, "Deaths":46 }
 			]
 	},
 	{"state":"Virgin Islands",
@@ -5243,7 +5295,8 @@
 				{"Date":"04/21/2020", "Confirmed":53, "Deaths":3 },
 				{"Date":"04/22/2020", "Confirmed":54, "Deaths":3 },
 				{"Date":"04/23/2020", "Confirmed":54, "Deaths":3 },
-				{"Date":"04/24/2020", "Confirmed":54, "Deaths":3 }
+				{"Date":"04/24/2020", "Confirmed":54, "Deaths":3 },
+				{"Date":"04/25/2020", "Confirmed":55, "Deaths":3 }
 			]
 	},
 	{"state":"Virginia",
@@ -5342,7 +5395,8 @@
 				{"Date":"04/21/2020", "Confirmed":9630, "Deaths":324 },
 				{"Date":"04/22/2020", "Confirmed":10266, "Deaths":349 },
 				{"Date":"04/23/2020", "Confirmed":10998, "Deaths":373 },
-				{"Date":"04/24/2020", "Confirmed":11594, "Deaths":411 }
+				{"Date":"04/24/2020", "Confirmed":11594, "Deaths":411 },
+				{"Date":"04/25/2020", "Confirmed":12366, "Deaths":437 }
 			]
 	},
 	{"state":"Washington",
@@ -5441,7 +5495,8 @@
 				{"Date":"04/21/2020", "Confirmed":12392, "Deaths":664 },
 				{"Date":"04/22/2020", "Confirmed":12596, "Deaths":686 },
 				{"Date":"04/23/2020", "Confirmed":12753, "Deaths":711 },
-				{"Date":"04/24/2020", "Confirmed":12977, "Deaths":722 }
+				{"Date":"04/24/2020", "Confirmed":12977, "Deaths":722 },
+				{"Date":"04/25/2020", "Confirmed":13319, "Deaths":737 }
 			]
 	},
 	{"state":"West Virginia",
@@ -5540,7 +5595,8 @@
 				{"Date":"04/21/2020", "Confirmed":908, "Deaths":26 },
 				{"Date":"04/22/2020", "Confirmed":939, "Deaths":27 },
 				{"Date":"04/23/2020", "Confirmed":981, "Deaths":31 },
-				{"Date":"04/24/2020", "Confirmed":1010, "Deaths":32 }
+				{"Date":"04/24/2020", "Confirmed":1010, "Deaths":32 },
+				{"Date":"04/25/2020", "Confirmed":1010, "Deaths":32 }
 			]
 	},
 	{"state":"Wisconsin",
@@ -5639,7 +5695,8 @@
 				{"Date":"04/21/2020", "Confirmed":4625, "Deaths":244 },
 				{"Date":"04/22/2020", "Confirmed":4845, "Deaths":248 },
 				{"Date":"04/23/2020", "Confirmed":5052, "Deaths":258 },
-				{"Date":"04/24/2020", "Confirmed":5356, "Deaths":263 }
+				{"Date":"04/24/2020", "Confirmed":5356, "Deaths":263 },
+				{"Date":"04/25/2020", "Confirmed":5687, "Deaths":266 }
 			]
 	},
 	{"state":"Wyoming",
@@ -5738,7 +5795,8 @@
 				{"Date":"04/21/2020", "Confirmed":443, "Deaths":2 },
 				{"Date":"04/22/2020", "Confirmed":447, "Deaths":6 },
 				{"Date":"04/23/2020", "Confirmed":453, "Deaths":7 },
-				{"Date":"04/24/2020", "Confirmed":473, "Deaths":7 }
+				{"Date":"04/24/2020", "Confirmed":473, "Deaths":7 },
+				{"Date":"04/25/2020", "Confirmed":491, "Deaths":7 }
 			]
 	},
 	{"state":"USA",
@@ -5794,50 +5852,51 @@
 				{"Date":"03/09/2020", "Confirmed":514, "Deaths":22 },
 				{"Date":"03/10/2020", "Confirmed":708, "Deaths":28 },
 				{"Date":"03/11/2020", "Confirmed":1105, "Deaths":32 },
-				{"Date":"03/12/2020", "Confirmed":1557, "Deaths":40 },
-				{"Date":"03/13/2020", "Confirmed":2147, "Deaths":48 },
-				{"Date":"03/14/2020", "Confirmed":2857, "Deaths":52 },
-				{"Date":"03/15/2020", "Confirmed":2918, "Deaths":60 },
-				{"Date":"03/16/2020", "Confirmed":4307, "Deaths":84 },
-				{"Date":"03/17/2020", "Confirmed":6096, "Deaths":107 },
-				{"Date":"03/18/2020", "Confirmed":8873, "Deaths":143 },
-				{"Date":"03/19/2020", "Confirmed":14094, "Deaths":209 },
-				{"Date":"03/20/2020", "Confirmed":19403, "Deaths":258 },
-				{"Date":"03/21/2020", "Confirmed":25725, "Deaths":318 },
-				{"Date":"03/22/2020", "Confirmed":33634, "Deaths":427 },
-				{"Date":"03/23/2020", "Confirmed":43663, "Deaths":552 },
-				{"Date":"03/24/2020", "Confirmed":53736, "Deaths":706 },
-				{"Date":"03/25/2020", "Confirmed":65778, "Deaths":942 },
-				{"Date":"03/26/2020", "Confirmed":83836, "Deaths":1209 },
-				{"Date":"03/27/2020", "Confirmed":101657, "Deaths":1581 },
-				{"Date":"03/28/2020", "Confirmed":121465, "Deaths":2181 },
-				{"Date":"03/29/2020", "Confirmed":140909, "Deaths":2565 },
-				{"Date":"03/30/2020", "Confirmed":161831, "Deaths":3102 },
-				{"Date":"03/31/2020", "Confirmed":188172, "Deaths":4038 },
-				{"Date":"04/01/2020", "Confirmed":213242, "Deaths":4995 },
-				{"Date":"04/02/2020", "Confirmed":243622, "Deaths":6294 },
-				{"Date":"04/03/2020", "Confirmed":275367, "Deaths":7417 },
-				{"Date":"04/04/2020", "Confirmed":308650, "Deaths":8387 },
-				{"Date":"04/05/2020", "Confirmed":336802, "Deaths":9489 },
-				{"Date":"04/06/2020", "Confirmed":366317, "Deaths":10783 },
-				{"Date":"04/07/2020", "Confirmed":397121, "Deaths":12794 },
-				{"Date":"04/08/2020", "Confirmed":428654, "Deaths":14704 },
-				{"Date":"04/09/2020", "Confirmed":462780, "Deaths":16553 },
-				{"Date":"04/10/2020", "Confirmed":496535, "Deaths":18595 },
-				{"Date":"04/11/2020", "Confirmed":526396, "Deaths":20471 },
-				{"Date":"04/12/2020", "Confirmed":555313, "Deaths":22029 },
-				{"Date":"04/13/2020", "Confirmed":580619, "Deaths":23538 },
-				{"Date":"04/14/2020", "Confirmed":607670, "Deaths":25843 },
-				{"Date":"04/15/2020", "Confirmed":636350, "Deaths":28338 },
-				{"Date":"04/16/2020", "Confirmed":667592, "Deaths":32930 },
-				{"Date":"04/17/2020", "Confirmed":699706, "Deaths":36787 },
-				{"Date":"04/18/2020", "Confirmed":732197, "Deaths":38664 },
-				{"Date":"04/19/2020", "Confirmed":758809, "Deaths":40661 },
-				{"Date":"04/20/2020", "Confirmed":784326, "Deaths":42094 },
-				{"Date":"04/21/2020", "Confirmed":811865, "Deaths":44444 },
-				{"Date":"04/22/2020", "Confirmed":840220, "Deaths":46622 },
-				{"Date":"04/23/2020", "Confirmed":869170, "Deaths":49954 },
-				{"Date":"04/24/2020", "Confirmed":905358, "Deaths":51949 }
+				{"Date":"03/12/2020", "Confirmed":1557, "Deaths":41 },
+				{"Date":"03/13/2020", "Confirmed":2147, "Deaths":50 },
+				{"Date":"03/14/2020", "Confirmed":2857, "Deaths":56 },
+				{"Date":"03/15/2020", "Confirmed":2918, "Deaths":70 },
+				{"Date":"03/16/2020", "Confirmed":4307, "Deaths":98 },
+				{"Date":"03/17/2020", "Confirmed":6096, "Deaths":132 },
+				{"Date":"03/18/2020", "Confirmed":8873, "Deaths":189 },
+				{"Date":"03/19/2020", "Confirmed":14094, "Deaths":267 },
+				{"Date":"03/20/2020", "Confirmed":19403, "Deaths":363 },
+				{"Date":"03/21/2020", "Confirmed":25725, "Deaths":453 },
+				{"Date":"03/22/2020", "Confirmed":33634, "Deaths":596 },
+				{"Date":"03/23/2020", "Confirmed":43663, "Deaths":781 },
+				{"Date":"03/24/2020", "Confirmed":53736, "Deaths":1008 },
+				{"Date":"03/25/2020", "Confirmed":65778, "Deaths":1316 },
+				{"Date":"03/26/2020", "Confirmed":83836, "Deaths":1726 },
+				{"Date":"03/27/2020", "Confirmed":101657, "Deaths":2265 },
+				{"Date":"03/28/2020", "Confirmed":121465, "Deaths":2886 },
+				{"Date":"03/29/2020", "Confirmed":140909, "Deaths":3518 },
+				{"Date":"03/30/2020", "Confirmed":161831, "Deaths":4316 },
+				{"Date":"03/31/2020", "Confirmed":188172, "Deaths":5531 },
+				{"Date":"04/01/2020", "Confirmed":213242, "Deaths":6736 },
+				{"Date":"04/02/2020", "Confirmed":243622, "Deaths":8286 },
+				{"Date":"04/03/2020", "Confirmed":275367, "Deaths":9573 },
+				{"Date":"04/04/2020", "Confirmed":308650, "Deaths":10834 },
+				{"Date":"04/05/2020", "Confirmed":336802, "Deaths":12245 },
+				{"Date":"04/06/2020", "Confirmed":366317, "Deaths":13894 },
+				{"Date":"04/07/2020", "Confirmed":397121, "Deaths":16191 },
+				{"Date":"04/08/2020", "Confirmed":428654, "Deaths":18270 },
+				{"Date":"04/09/2020", "Confirmed":462780, "Deaths":20264 },
+				{"Date":"04/10/2020", "Confirmed":496535, "Deaths":22333 },
+				{"Date":"04/11/2020", "Confirmed":526396, "Deaths":24342 },
+				{"Date":"04/12/2020", "Confirmed":555313, "Deaths":26086 },
+				{"Date":"04/13/2020", "Confirmed":580619, "Deaths":27870 },
+				{"Date":"04/14/2020", "Confirmed":607670, "Deaths":30262 },
+				{"Date":"04/15/2020", "Confirmed":636350, "Deaths":32734 },
+				{"Date":"04/16/2020", "Confirmed":667592, "Deaths":34827 },
+				{"Date":"04/17/2020", "Confirmed":699706, "Deaths":37411 },
+				{"Date":"04/18/2020", "Confirmed":727959, "Deaths":39753 },
+				{"Date":"04/19/2020", "Confirmed":754376, "Deaths":40945 },
+				{"Date":"04/20/2020", "Confirmed":779682, "Deaths":42659 },
+				{"Date":"04/21/2020", "Confirmed":807023, "Deaths":45086 },
+				{"Date":"04/22/2020", "Confirmed":835150, "Deaths":47412 },
+				{"Date":"04/23/2020", "Confirmed":869170, "Deaths":49724 },
+				{"Date":"04/24/2020", "Confirmed":905358, "Deaths":51493 },
+				{"Date":"04/25/2020", "Confirmed":938154, "Deaths":53755 }
 			]
 	}
 ]
