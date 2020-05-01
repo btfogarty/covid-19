@@ -65,6 +65,10 @@ data_usa = data_usa[['Province_State','Date','Confirmed','Deaths']]
 
 data_sum = data_sum.append(data_usa[['Province_State','Date','Confirmed','Deaths']],ignore_index=True)
 
+#Calculate Daily Changes
+data_sum['confirmed_diff'] = data_sum.groupby(['Province_State'])['Confirmed'].diff().fillna(0)
+data_sum['deaths_diff'] = data_sum.groupby(['Province_State'])['Deaths'].diff().fillna(0)
+
 #url = 'C:\\Users\\' + getpass.getuser() + '\\Documents\\GitHub\\\covid-19\\data\\covid_states_data.json'
 #data_sum.to_json(url, orient = 'split', index=False, indent = 2)
 
@@ -96,9 +100,11 @@ while idx < len(states):
     
     for index, row in state_data.iterrows():
         if num_rows + 1 <= len(state_data.index):
-            file.write('\t\t\t\t{"Date":"' + str(row['Date'].strftime('%m/%d/%Y')) + '", "Confirmed":' + str(row['Confirmed']) + ', "Deaths":' + str(row['Deaths']) + ' },\n')
+            file.write('\t\t\t\t{"Date":"' + str(row['Date'].strftime('%m/%d/%Y')) + '", "Confirmed":' + str(row['Confirmed']) 
+                       + ', "Deaths":' + str(row['Deaths']) + ', "Daily_Confirmed":' + str(row['confirmed_diff']) + ', "Daily_Deaths":' + str(row['deaths_diff']) + ' },\n')
         else:
-            file.write('\t\t\t\t{"Date":"' + str(row['Date'].strftime('%m/%d/%Y')) + '", "Confirmed":' + str(row['Confirmed']) + ', "Deaths":' + str(row['Deaths']) + ' }\n')
+            file.write('\t\t\t\t{"Date":"' + str(row['Date'].strftime('%m/%d/%Y')) + '", "Confirmed":' + str(row['Confirmed']) 
+                       + ', "Deaths":' + str(row['Deaths']) + ', "Daily_Confirmed":' + str(row['confirmed_diff']) + ', "Daily_Deaths":' + str(row['deaths_diff']) + ' }\n')
         num_rows = num_rows + 1
     
     file.write('\t\t\t]\n')
