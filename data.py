@@ -69,6 +69,12 @@ data_sum = data_sum.append(data_usa[['Province_State','Date','Confirmed','Deaths
 data_sum['confirmed_diff'] = data_sum.groupby(['Province_State'])['Confirmed'].diff().fillna(0)
 data_sum['deaths_diff'] = data_sum.groupby(['Province_State'])['Deaths'].diff().fillna(0)
 
+#Calculate rolling avgs
+data_sum['confirmed_3day'] = round(data_sum.groupby(['Province_State'])['confirmed_diff'].rolling(3).mean().reset_index(level=0, drop=True).fillna(0),3)
+data_sum['confirmed_5day'] = round(data_sum.groupby(['Province_State'])['confirmed_diff'].rolling(5).mean().reset_index(level=0, drop=True).fillna(0),3)
+data_sum['deaths_3day'] = round(data_sum.groupby(['Province_State'])['deaths_diff'].rolling(3).mean().reset_index(level=0, drop=True).fillna(0),3)
+data_sum['deaths_5day'] = round(data_sum.groupby(['Province_State'])['deaths_diff'].rolling(5).mean().reset_index(level=0, drop=True).fillna(0),3)
+
 #url = 'C:\\Users\\' + getpass.getuser() + '\\Documents\\GitHub\\\covid-19\\data\\covid_states_data.json'
 #data_sum.to_json(url, orient = 'split', index=False, indent = 2)
 
@@ -81,7 +87,7 @@ data_sum['deaths_diff'] = data_sum.groupby(['Province_State'])['Deaths'].diff().
 states = data_sum['Province_State'].unique()
 idx = 0
 
-url = 'C:\\Users\\' + getpass.getuser() + '\\Documents\\GitHub\\\covid-19\\data\\covid_states_data.json'
+url = 'C:\\Users\\' + getpass.getuser() + '\\Documents\\GitHub\\btfogarty.github.io\\data\\covid_states_data.json'
 file = open(url,'w')
 file.write('[\n')
 #write custom JSON file
@@ -101,10 +107,16 @@ while idx < len(states):
     for index, row in state_data.iterrows():
         if num_rows + 1 <= len(state_data.index):
             file.write('\t\t\t\t{"Date":"' + str(row['Date'].strftime('%m/%d/%Y')) + '", "Confirmed":' + str(row['Confirmed']) 
-                       + ', "Deaths":' + str(row['Deaths']) + ', "Daily_Confirmed":' + str(row['confirmed_diff']) + ', "Daily_Deaths":' + str(row['deaths_diff']) + ' },\n')
+                       + ', "Deaths":' + str(row['Deaths']) + ', "Daily_Confirmed":' + str(row['confirmed_diff']) + ', "Daily_Deaths":' + str(row['deaths_diff']) 
+                       + ', "Confirmed_3day":' + str(row['confirmed_3day']) + ', "Confirmed_5day":' + str(row['confirmed_5day'])
+                       + ', "Deaths_3day":' + str(row['deaths_3day']) + ', "Deaths_5day":' + str(row['deaths_5day']) 
+                       + '},\n')
         else:
             file.write('\t\t\t\t{"Date":"' + str(row['Date'].strftime('%m/%d/%Y')) + '", "Confirmed":' + str(row['Confirmed']) 
-                       + ', "Deaths":' + str(row['Deaths']) + ', "Daily_Confirmed":' + str(row['confirmed_diff']) + ', "Daily_Deaths":' + str(row['deaths_diff']) + ' }\n')
+                       + ', "Deaths":' + str(row['Deaths']) + ', "Daily_Confirmed":' + str(row['confirmed_diff']) + ', "Daily_Deaths":' + str(row['deaths_diff']) 
+                       + ', "Confirmed_3day":' + str(row['confirmed_3day']) + ', "Confirmed_5day":' + str(row['confirmed_5day'])
+                       + ', "Deaths_3day":' + str(row['deaths_3day']) + ', "Deaths_5day":' + str(row['deaths_5day']) 
+                       + ' }\n')
         num_rows = num_rows + 1
     
     file.write('\t\t\t]\n')
